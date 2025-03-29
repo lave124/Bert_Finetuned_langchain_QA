@@ -44,6 +44,12 @@ Install dependencies
 
 
 pip install -r requirements.txt
+
+# Get the model file
+https://huggingface.co/lave124/Bert_Finetuned_Mobile_QA/tree/main
+
+Move the model.safetensors file to -> model_files
+
 🚀 Usage
 1. Run the RAG API
 Start the FastAPI server:
