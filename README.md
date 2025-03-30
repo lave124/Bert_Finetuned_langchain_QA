@@ -98,6 +98,11 @@ Bert_Finetuned_langchain_QA/
 🔹 Enhanced fine-tuning (more epochs, larger dataset)
 🔹 Deployment options (Docker, cloud hosting)
 
+# Architecure Diagram
+
+![image](https://github.com/user-attachments/assets/2a082f6e-6c36-4352-a3e0-63f72e83894f)
+
+
 # Demo Image
 
 ![Screenshot 2025-03-29 235531](https://github.com/user-attachments/assets/30375075-f2b4-4709-8c7b-49623755833e)
